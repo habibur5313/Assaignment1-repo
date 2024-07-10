@@ -162,4 +162,54 @@ opacity: 0.7;
                                                                                 font-family: Azeret Mono;
                                                                                 font-size: 16px;
                                                                                 font-weight: 400;opacity: 0.7;
-                                                            }                                                                              
+                                                            } 
+                                                            .third-section-container{width: 1140px;
+                                                                                height: 1437px;
+                                                            margin: 0 auto; margin-top: 151px;}
+                                                            .third-section-content{width: 852px;
+                                                                                height: 160px;
+                                                            text-align: center; margin: 0 auto;}
+                                                            .third-section-content h1{color: rgb(13, 19, 33);
+                                                                                font-family: Azeret Mono;
+                                                                                font-size: 32px;
+                                                                                font-weight: 800;}
+                                                            .third-section-content p{color: rgb(13, 19, 33);
+                                                                                font-family: Azeret Mono;
+                                                                                font-size: 16px;
+                                                                                font-weight: 400; opacity: 0.7;}
+                                                            
+                                                            .current-target{display: flex; gap: 20px;}
+                                                            .current-target .html{padding: 40px; background-color: rgba(255, 76, 30, 0.05); border-radius: 16px;}
+                                                            .current-target h1{color: rgb(13, 19, 33);
+                                                                                font-family: Azeret Mono;
+                                                                                font-size: 24px;
+                                                                                font-weight: 800;}
+                                                            .current-target a{color: rgb(13, 19, 33);
+                                                                                font-family: Azeret Mono;
+                                                                                font-size: 16px;
+                                                                                font-weight: 700;}
+                                                            .current-target p{color: rgb(13, 19, 33);
+                                                                                font-family: Azeret Mono;
+                                                                                font-size: 16px;
+                                                                                font-weight: 400;opacity: 0.7;
+                                                            }
+                                                            .current-target .css{padding: 40px; background-color: rgba(0, 76, 232, 0.05); border-radius: 16px;}
+                                                            .current-target .js{padding: 40px; background-color:rgba(255, 223, 0, 0.06) ; border-radius: 16px;}
+                                                            
+                                                            .next-targets-container{width: 852px;
+                                                                                height: 113px;
+                                                            margin: 0 auto; margin-top: 111px; text-align: center;}
+                                                            .next-target-content h1{color: rgb(13, 19, 33);
+                                                                                font-family: Azeret Mono;
+                                                                                font-size: 32px;
+                                                                                font-weight: 800;}
+                                                            .next-target-content p{color: rgb(13, 19, 33);
+                                                                                font-family: Azeret Mono;
+                                                                                font-size: 16px;
+                                                                                font-weight: 400; opacity: 0.7;
+                                                            }
+                                                            
+                                                            .all-target-container{width: 1140px;
+                                                                                height: 705px;}
+                                                            
+                                                            .all-target-container .html{display: flex;}                                                                            
