@@ -211,8 +211,48 @@ opacity: 0.7;
                                                             .all-target-container{width: 1140px;
                                                                                 height: 705px;}
                                                             
-                                                            .all-target-container .html{display: flex;} 
+                                                            .all-target-container .react{display: flex; width: 1140px;
+                                                              height: 220px; box-sizing: border-box;
+                                                              border: 1px solid rgb(0, 0, 0);
+                                                              border-radius: 16px; margin-top: 20px;
+                                                              } 
+                                                              .all-target-container .react img{margin-top: 50px;}
+                                                              .all-target-container .react h1{color: rgb(13, 19, 33);
+                                                                font-family: Azeret Mono;
+                                                                font-size: 24px;
+                                                                font-weight: 800;}
+                                                                .all-target-container .react p{color: rgb(13, 19, 33);
+                                                                  font-family: Azeret Mono;
+                                                                  font-size: 16px;
+                                                                  font-weight: 400; opacity: 0.7;
+                                                                } 
+                                                            .all-target-container .nodejs{display: flex; width: 1140px;
+                                                              height: 220px; box-sizing: border-box;
+                                                              border: 1px solid rgb(0, 0, 0);
+                                                              border-radius: 16px; margin-top: 20px;}
+                                                            .all-target-container .nodejs img{margin-top: 50px;}
+                                                            .all-target-container .nodejs h1{color: rgb(13, 19, 33);
+                                                              font-family: Azeret Mono;
+                                                              font-size: 24px;
+                                                              font-weight: 800;}
+                                                            .all-target-container .nodejs p{color: rgb(13, 19, 33);
+                                                              font-family: Azeret Mono;
+                                                              font-size: 16px;
+                                                              font-weight: 400; opacity: 0.7;}
 
+                                                            .all-target-container .mongodb{display: flex;  width: 1140px;
+                                                              height: 220px; box-sizing: border-box;
+                                                              border: 1px solid rgb(0, 0, 0);
+                                                              border-radius: 16px; margin-top: 20px;}
+                                                              .all-target-container .mongodb img{margin-top: 50px;}
+                                                              .all-target-container .mongodb h1{color: rgb(13, 19, 33);
+                                                                font-family: Azeret Mono;
+                                                                font-size: 24px;
+                                                                font-weight: 800;}
+                                                              .all-target-container .mongodb p{color: rgb(13, 19, 33);
+                                                                font-family: Azeret Mono;
+                                                                font-size: 16px;
+                                                                font-weight: 400; opacity: 0.7;} 
                                                             .feedback-container{width: 1140px;
                                                                                 height: 313px;
                                                             margin: 0 auto; margin-top: 40px;
